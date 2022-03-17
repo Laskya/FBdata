@@ -1,6 +1,6 @@
 <?php
 class Json {
-  public $dir = "D:\!kopiaFacebook\d20211006\messages\inbox";
+  public $dir = "path_to_folder_with_messages_copy";
   public $found = array();
   public $json_decoded = array();
 
